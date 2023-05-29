@@ -1,0 +1,41 @@
+h1{
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+#p-one{
+    font-style: italic;
+    background-color: blue;
+    color: white;
+    text-align: right;
+    border: 2px solid burlywood; 
+    padding: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+#p-two{
+    background-color: black;
+    color: yellow;
+    text-align: left;
+    border: 1px solid yellow;
+    font-family: 'Courier New', monospace;
+    font-size: 2em;
+    padding: 1px;
+}
+form{
+    background-color: lightblue;
+    align-items: center;
+    border: 1px solid yellowgreen;
+    padding: 15px;
+}
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
